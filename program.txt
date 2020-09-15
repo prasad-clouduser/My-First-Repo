@@ -9,3 +9,8 @@ C++
 New languages added. 
 
 Hadoop
+GitLab
+GitHub
+Terraform
+
+Done with Adding. 
